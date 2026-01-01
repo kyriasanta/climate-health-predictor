@@ -39,4 +39,4 @@ Predicts emergency room visits based on temperature patterns to inform public he
 
 ## 🔗 Links
 - **GitHub Repo**: https://github.com/kyriasanta/climate-health-predictor.git
-- **Data Source**: [NOAA GSOD](https://www.ncei.noaa.gov/data/global-summary-of-the-day/)
+- **Data Source**: [NOAA GSOD](https://www.ncei.noaa.gov/maps/daily/)
